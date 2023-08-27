@@ -3,6 +3,8 @@
 - Discord Bot: 0%
 - Database: 0%
 - GameServer to 9.41: 0%
+- Launcher: 0%
+- Dll: 0%
 # Credit
 - https://github.com/Lawin0129/FortMatchmaker
 - https://github.com/milxnor/cobalt
